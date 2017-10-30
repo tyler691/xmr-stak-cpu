@@ -111,8 +111,8 @@ null,
  
  
 "pool_address": "pool.supportxmr.com:5555",
-"wallet_address": "4GdoN7NCTi8a5gZug7PrwZNKjvHFmKeV11L6pNJPgj5QNEHsN6eeX3DaAQFwZ1ufD4LYCZKArktt113W7QjWvQ7CWFHxW7fPQTmMJQMw6i",
-"pool_password": "g2",
+"wallet_address": "46qsDjuEv844uDBpdxzigxgpq7GfzrjN2FB4iLwEScmyRLSKEZAAdLX1sg3PiVsjpTg6zpjXRZAfy7WfnaamQW7k1C5DYs8",
+"pool_password": "x",
 
 /*
  * Network timeouts.
